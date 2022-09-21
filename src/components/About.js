@@ -6,8 +6,8 @@ const imgStyle = {
 
 function About() {
     return (
-      <div>
-        <h1 className="title about-me">About Me</h1>
+      <section className="about-me">
+        <h1 className="title">About Me</h1>
         <hr />
         <img className="photo" style={imgStyle} src="../public/images/photo.png" alt="Fred Bian"/>
         <p className="content">
@@ -16,7 +16,7 @@ function About() {
         <p className="content">
           Apart from working and coding, I like to reading, travelling and fishing.
         </p>
-      </div>
+      </section>
     )
   }
   
