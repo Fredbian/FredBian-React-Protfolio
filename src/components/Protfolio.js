@@ -1,12 +1,12 @@
 import React from 'react'
 import Projects from './Projects'
 import { Container, Row, Col } from 'react-bootstrap'
-import codequize from '../../public/images/codequize.png'
-import password_generator from '../../public/images/password_generator.png'
-import protfolio1 from '../../public/images/protfolio1.png'
-import tech_blog from '../../public/images/tech-blog.png'
-import weather_dashboard from '../../public/images/weather_dashboard.png'
-import work_day_scheduler from '../../public/images/work_day_scheduler.png'
+import codequize from '../images/codequize.png'
+import password_generator from '../images/password_generator.png'
+import protfolio1 from '../images/protfolio1.png'
+import tech_blog from '../images/tech_blog.png'
+import weather_dashboard from '../images/weather_dashboard.png'
+import work_day_scheduler from '../images/work_day_scheduler.png'
 
 function Protfolio() {
     return (
