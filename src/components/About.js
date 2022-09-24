@@ -1,4 +1,5 @@
 import React from 'react'
+import Photo from '../images/photo.png'
 
 const imgStyle = {
     padding: '20px'
@@ -9,7 +10,7 @@ function About() {
       <section className="about-me">
         <h1 className="title">About Me</h1>
         <hr />
-        <img className="photo" style={imgStyle} src="../public/images/photo.png" alt="Fred Bian"/>
+        <img className="photo" style={imgStyle} src={Photo} alt="Fred Bian"/>
         <p className="content">
           Hi Everyone, I'm Fred, currently learning coding in Monash University Coding Bootcamp.
         </p>

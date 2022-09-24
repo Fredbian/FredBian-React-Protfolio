@@ -14,7 +14,7 @@ function Protfolio() {
             <div className="main">
                 <div className="projects">
                     <div className="title">
-                        <h3>Projects I've Built</h3>
+                        <h3>Projects</h3>
                     </div>
                     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                         <Col md={4} className="project-card">
@@ -48,9 +48,9 @@ function Protfolio() {
                             <Projects
                                 imgPath={work_day_scheduler}
                                 title="Work Day Scheduler"
-                                description="It's a simple Work Day Scheduler Calendar application build with HTML, CSS and JS."
-                                linkApp="https://github.com/Fredbian/MONU-FSF-Module5_Challenge-Work-Day-Scheduler"
-                                linkGithub="https://fredbian.github.io/MONU-FSF-Module5_Challenge-Work-Day-Scheduler/"
+                                description="It's a simple Work Day Scheduler Calendar application build with HTML, CSS and JS."                            
+                                linkApp="https://fredbian.github.io/MONU-FSF-Module5_Challenge-Work-Day-Scheduler/"
+                                linkGithub="https://github.com/Fredbian/MONU-FSF-Module5_Challenge-Work-Day-Scheduler"
                             />
                         </Col>
                         <Col md={4} className="projects">
@@ -58,8 +58,8 @@ function Protfolio() {
                                 imgPath={weather_dashboard}
                                 title="Weather Dashboard"
                                 description="Use OpenWeather API to fetch weather informaton."
-                                linkApp="https://github.com/Fredbian/MONU-FSF-Module-6-Challenge-Weather-Dashboard"
-                                linkGithub="https://fredbian.github.io/MONU-FSF-Module-6-Challenge-Weather-Dashboard/"
+                                linkApp="https://fredbian.github.io/MONU-FSF-Module-6-Challenge-Weather-Dashboard/"
+                                linkGithub="https://github.com/Fredbian/MONU-FSF-Module-6-Challenge-Weather-Dashboard"
                             />
                         </Col>
                         <Col md={4} className="projects">
@@ -67,8 +67,8 @@ function Protfolio() {
                                 imgPath={tech_blog}
                                 title="Tech Blog"
                                 description="A CMS-style blog site, following the MVC paradigm."
-                                linkApp="https://github.com/Fredbian/MONU-FSF-Module-14-Challenge-Tech-Blog"
-                                linkGithub="https://module-14-tech-blog-fred.herokuapp.com/"
+                                linkApp="https://module-14-tech-blog-fred.herokuapp.com/"
+                                linkGithub="https://github.com/Fredbian/MONU-FSF-Module-14-Challenge-Tech-Blog"
                             />
                         </Col>
                     </Row>
