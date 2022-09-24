@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Portfolio.css"
 import Projects from './Projects'
 import { Container, Row, Col } from 'react-bootstrap'
 import codequize from '../images/codequize.png'
@@ -10,7 +11,7 @@ import work_day_scheduler from '../images/work_day_scheduler.png'
 
 function Protfolio() {
     return (
-        <Container fluid className="protfolio">
+        <Container fluid className="portfolio">
             <div className="main">
                 <div className="projects">
                     <div className="title">

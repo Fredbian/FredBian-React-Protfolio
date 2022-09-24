@@ -1,16 +1,17 @@
 import React from 'react'
 import resume from '../utils/resume.pdf'
+import './Resume.css'
 
 function Resume() {
     return (
-        <section>
+        <section className='resume' >
             <div className="container">
                 <span className="title">
-                    <h1>Download my <a className="resume" href={resume} style={{ color: "red", fontSize: "40px" }} target="_blank" rel="noreferrer">Resume📝</a></h1>
+                    <h2>Download my <a className="resume" href={resume} style={{ color: "red", fontSize: "35px" }} target="_blank" rel="noreferrer">Resume📝</a></h2>
                 </span>
                 <br></br>
                 <p>Here are a few technologies I've worked with recently:<br />⠀</p>
-                <ol className="technologies">
+                <ul className="technologies">
                     <li>HTML & CSS</li>
                     <li>Bootstrap</li>
                     <li>JavaScript</li>
@@ -27,7 +28,7 @@ function Resume() {
                     <li>Server Side API & Third Party API</li>
                     <li>Backend Development</li>
                     <li>Full Stack Development</li>
-                </ol>
+                </ul>
             </div>
         </section>
     )

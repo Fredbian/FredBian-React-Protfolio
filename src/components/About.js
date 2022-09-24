@@ -1,5 +1,6 @@
 import React from 'react'
 import Photo from '../images/photo.png'
+import './About.css'
 
 const imgStyle = {
     padding: '20px'

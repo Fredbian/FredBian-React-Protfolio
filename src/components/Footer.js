@@ -2,6 +2,7 @@ import React from 'react'
 import LinkedIn from '../icons/linkedin.png'
 import Github from '../icons/github.png'
 import Facebook from '../icons/facebook_icon.png'
+import './Footer.css'
 
 const imgStyle = {
     width: '75px',
