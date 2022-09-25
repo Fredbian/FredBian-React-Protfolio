@@ -1,3 +1,13 @@
 .portfolio{
     padding: 10px;
 }
+
+.title {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.row {
+    padding: 20px;
+}
+

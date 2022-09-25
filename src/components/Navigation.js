@@ -9,7 +9,7 @@ function Navigation() {
     <>
       <Navbar bg="dark" variant="dark" className='navbar'>
         <Container className='container'>
-            <Navbar.Brand className='brand' as={Link} to='/'>Fred Bian</Navbar.Brand>
+            <Navbar.Brand as={Link} to='/'><span className='brand'>Fred Bian</span></Navbar.Brand>
             <Nav className="">
               <Nav.Link as={Link} to="/about">
                 About Me

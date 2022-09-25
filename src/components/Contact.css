@@ -1,0 +1,46 @@
+.contact-me {
+    text-align: center;
+}
+
+.contactForm{
+    left:50%;
+    top:50%;
+}
+
+.input{
+    background-color:var(--fontColor);
+    cursor:default;
+    color:black;
+    margin:10px;
+    padding:10px;
+    width:70vw;
+    max-width:700px;
+    cursor:text;
+    border-radius:5px;
+}
+
+.textarea{
+    border-radius:5px;;
+    cursor:default;
+    color:black;
+    margin:10px;
+    padding:10px;
+    width:70vw;
+    max-width:700px;
+    height: 40vh;
+    cursor:text;
+}
+
+.errorMessage {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.button {
+    padding:10px;
+    margin: 20px;
+    font-weight: 700;
+    width:200px;
+    border-radius:5px;
+}

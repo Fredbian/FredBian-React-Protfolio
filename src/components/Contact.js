@@ -1,6 +1,8 @@
 // import
 import React, { useState } from 'react'
 import { validateEmail } from '../utils/helpers'
+import './Contact.css'
+
 
 function Contact() {
     const [formState, setFormState] = useState({ name: '', email: '', message: '' })
@@ -35,28 +37,25 @@ function Contact() {
     }
 
     return (
-        <section className="contact-me">
+        <section className='contact-me'>
             <h1 className="title">Contact Me</h1>
             <hr />
-            <form id="contact-form" onSubmit={handleSubmit}>
+            <form className='contactForm' id="contact-form" onSubmit={handleSubmit}>
                 <div className="field">
-                    <label className="label" htmlFor="name">Name</label>
-                    <input className="input" type="text" name="name" defaultValue={name} onBlur={handleChange} />
+                    <input className="input" placeholder="Your Name" type="text" name="Your name" defaultValue={name} onBlur={handleChange} />
                 </div>
                 <div className="field">
-                    <label className="label" htmlFor="email">Email Address</label>
-                    <input className="input" type="email" name="email" defaultValue={email} onBlur={handleChange} />
+                    <input className="input" placeholder="Your Email" type="email" name="Your email" defaultValue={email} onBlur={handleChange} />
                 </div>
                 <div className="field">
-                    <label className="label" htmlFor="message">Message</label>
-                    <textarea className="textarea" name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+                    <textarea className="textarea" placeholder="Please enter your message" name="Message" rows="5" defaultValue={message} onBlur={handleChange} />
                 </div>
                 {errorMessage && (
                     <div>
-                        <p className="is-danger">{errorMessage}</p>
+                        <p className="errorMessage">{errorMessage}</p>
                     </div>
                 )}
-                <button className="button " data-testid="button" type="submit">Submit</button>
+                <button className="button" data-testid="button" type="submit">Submit</button>
             </form>
         </section>
     )

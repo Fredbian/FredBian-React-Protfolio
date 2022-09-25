@@ -15,9 +15,10 @@ function Protfolio() {
             <div className="main">
                 <div className="projects">
                     <div className="title">
-                        <h3>Projects</h3>
+                        <h1>Projects</h1>
                     </div>
-                    <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+                    <hr />
+                    <Row className="row" style={{ justifyContent: "center", paddingBottom: "10px" }}>
                         <Col md={4} className="project-card">
                             <Projects
                                 imgPath={protfolio1}
