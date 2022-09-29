@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Protfolio/static/css/main.0319676e.css",
-    "main.js": "/React-Protfolio/static/js/main.8e3a6f39.js",
-    "static/js/787.c9855f27.chunk.js": "/React-Protfolio/static/js/787.c9855f27.chunk.js",
-    "static/media/protfolio1.png": "/React-Protfolio/static/media/protfolio1.9ca3f4280c5f5fde236b.png",
-    "static/media/resume.pdf": "/React-Protfolio/static/media/resume.70f31d50a8129451075d.pdf",
-    "static/media/weather_dashboard.png": "/React-Protfolio/static/media/weather_dashboard.019ced29139b4c2e13e4.png",
-    "static/media/photo.png": "/React-Protfolio/static/media/photo.576815a015d06b24feca.png",
-    "static/media/password_generator.png": "/React-Protfolio/static/media/password_generator.ade731987c1205acf6cf.png",
-    "static/media/codequize.png": "/React-Protfolio/static/media/codequize.696d92bdfb2bac89cdff.png",
-    "static/media/work_day_scheduler.png": "/React-Protfolio/static/media/work_day_scheduler.6452ebe62800ebf03084.png",
-    "static/media/tech_blog.png": "/React-Protfolio/static/media/tech_blog.e0667a6ff3cd7aa1977b.png",
-    "index.html": "/React-Protfolio/index.html",
-    "main.0319676e.css.map": "/React-Protfolio/static/css/main.0319676e.css.map",
-    "main.8e3a6f39.js.map": "/React-Protfolio/static/js/main.8e3a6f39.js.map",
-    "787.c9855f27.chunk.js.map": "/React-Protfolio/static/js/787.c9855f27.chunk.js.map"
+    "main.css": "/FredBian-React-Protfolio/static/css/main.0319676e.css",
+    "main.js": "/FredBian-React-Protfolio/static/js/main.f6c5c8c5.js",
+    "static/js/787.c9855f27.chunk.js": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js",
+    "static/media/protfolio1.png": "/FredBian-React-Protfolio/static/media/protfolio1.9ca3f4280c5f5fde236b.png",
+    "static/media/resume.pdf": "/FredBian-React-Protfolio/static/media/resume.70f31d50a8129451075d.pdf",
+    "static/media/weather_dashboard.png": "/FredBian-React-Protfolio/static/media/weather_dashboard.019ced29139b4c2e13e4.png",
+    "static/media/photo.png": "/FredBian-React-Protfolio/static/media/photo.576815a015d06b24feca.png",
+    "static/media/password_generator.png": "/FredBian-React-Protfolio/static/media/password_generator.ade731987c1205acf6cf.png",
+    "static/media/codequize.png": "/FredBian-React-Protfolio/static/media/codequize.696d92bdfb2bac89cdff.png",
+    "static/media/work_day_scheduler.png": "/FredBian-React-Protfolio/static/media/work_day_scheduler.6452ebe62800ebf03084.png",
+    "static/media/tech_blog.png": "/FredBian-React-Protfolio/static/media/tech_blog.e0667a6ff3cd7aa1977b.png",
+    "index.html": "/FredBian-React-Protfolio/index.html",
+    "main.0319676e.css.map": "/FredBian-React-Protfolio/static/css/main.0319676e.css.map",
+    "main.f6c5c8c5.js.map": "/FredBian-React-Protfolio/static/js/main.f6c5c8c5.js.map",
+    "787.c9855f27.chunk.js.map": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0319676e.css",
-    "static/js/main.8e3a6f39.js"
+    "static/js/main.f6c5c8c5.js"
   ]
 }
