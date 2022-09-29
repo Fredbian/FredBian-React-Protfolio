@@ -11,10 +11,11 @@ This application is my personal portfolio website built by using reactjs. Core s
 - [Technologies ](#technologies )
 - [Links](#links)
 
-
-
 ## Sections
-
+* About ME
+* Protfolio
+* Resume
+* Contact Me
 
 ## Usage
 * Please go to the link for this webpage: 
@@ -32,7 +33,14 @@ Then open browser and go `http://localhost:3000/`
 * [JSX](https://reactjs.org/docs/introducing-jsx.html)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+## Screenshot
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
+![Screenshot]()
 
 ## Links
-* Github: https://github.com/Fredbian/React-Protfolio
+* Github: https://github.com/Fredbian/FredBian-React-Protfolio
 * Deployed Link: 

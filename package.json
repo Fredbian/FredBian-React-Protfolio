@@ -1,7 +1,7 @@
 {
   "name": "react-protfolio",
   "version": "0.1.0",
-  "homepage": "https://Fredbian.github.io/React-Protfolio",
+  "homepage": "https://Fredbian.github.io/FredBian-React-Protfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
