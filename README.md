@@ -43,4 +43,4 @@ Then open browser and go `http://localhost:3000/`
 
 ## Links
 * Github: https://github.com/Fredbian/FredBian-React-Protfolio
-* Deployed Link: 
+* Deployed Link: https://fredbian.github.io/FredBian-React-Protfolio/
