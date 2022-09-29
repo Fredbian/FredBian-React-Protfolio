@@ -34,12 +34,12 @@ Then open browser and go `http://localhost:3000/`
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Screenshot
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio.png)
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio%20(1).png)
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio%20(2).png)
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio%20(3).png)
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio%20(4).png)
+![Screenshot](https://github.com/Fredbian/FredBian-React-Protfolio/blob/main/src/images/localhost_3000_FredBian-React-Protfolio%20(5).png)
 
 ## Links
 * Github: https://github.com/Fredbian/FredBian-React-Protfolio
