@@ -1,4 +1,4 @@
-import Container from 'react-bootstrap/Container'
+import { Col, Row } from 'react-bootstrap'
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar'
 import { Link } from 'react-router-dom'
@@ -8,9 +8,12 @@ function Navigation() {
   return (
     <>
       <Navbar bg="dark" variant="dark" className='navbar'>
-        <Container className='container'>
+        <Row className='w-100' >
+          <Col className='col-5'>
             <Navbar.Brand as={Link} to='/'><span className='brand'>Fred Bian</span></Navbar.Brand>
-            <Nav className="">
+          </Col>
+          <Col className='col-7'>
+            <Nav className="justify-content-end">
               <Nav.Link as={Link} to="/about">
                 About Me
               </Nav.Link>
@@ -24,7 +27,8 @@ function Navigation() {
                 Contact
               </Nav.Link>
             </Nav>
-        </Container>
+          </Col>
+        </Row>
       </Navbar>
     </>
   )

@@ -13,7 +13,7 @@ function Contact() {
 
     // handleChange method ---- validate email and required input
     function handleChange(e) {
-        if (e.target.name === 'email') {
+        if (e.target.name === 'Email') {
             const isValid = validateEmail(e.target.value)
 
             if (!isValid) {
@@ -42,10 +42,10 @@ function Contact() {
             <hr />
             <form className='contactForm' id="contact-form" onSubmit={handleSubmit}>
                 <div className="field">
-                    <input className="input" placeholder="Your Name" type="text" name="Your name" defaultValue={name} onBlur={handleChange} />
+                    <input className="input" placeholder="Your Name" type="text" name="Name" defaultValue={name} onBlur={handleChange} />
                 </div>
                 <div className="field">
-                    <input className="input" placeholder="Your Email" type="email" name="Your email" defaultValue={email} onBlur={handleChange} />
+                    <input className="input" placeholder="Your Email" type="email" name="Email" defaultValue={email} onBlur={handleChange} />
                 </div>
                 <div className="field">
                     <textarea className="textarea" placeholder="Please enter your message" name="Message" rows="5" defaultValue={message} onBlur={handleChange} />
