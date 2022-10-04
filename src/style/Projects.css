@@ -1,0 +1,19 @@
+.card-img {
+    height: 500px;
+}
+
+.card-body {
+    color: white;
+}
+
+.card-title {
+    color: white
+}
+
+.card-text {
+    color: white
+}
+
+.project-card-view {
+    box-shadow: 5px 5px rgb(204, 200, 200)
+}

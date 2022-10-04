@@ -1,6 +1,6 @@
 import React from 'react'
 import resume from '../utils/resume.pdf'
-import './Resume.css'
+import '../style/Resume.css'
 
 function Resume() {
     return (

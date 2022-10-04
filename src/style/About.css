@@ -4,4 +4,9 @@
 
 .box {
     text-align: center;
+    font-family: fantasy;
+}
+
+.photo {
+    margin-top: 100px;
 }

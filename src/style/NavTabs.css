@@ -1,0 +1,43 @@
+.navbar {
+    display: flex;
+    font-family: fantasy;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgb(48, 43, 43);
+    color: white
+}
+
+.brand {
+    font-size: 30px;
+    padding-left: 1em;
+}
+
+/* .nav {
+    font-size: 18px;
+} */
+
+/* .nav-link {
+    font-weight: 700;
+} */
+
+.test {
+    padding-top: 15px;
+    padding-right: 10px;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.link {
+    list-style: none;
+}
+
+.link:hover {
+    color: brown;
+}
+
+@media only screen and (max-width: 600px) {
+    .test {
+      flex-direction: column;
+    }
+  }

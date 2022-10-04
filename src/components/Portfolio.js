@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Portfolio.css"
+import "../style/Portfolio.css"
 import Projects from './Projects'
 import { Container, Row, Col } from 'react-bootstrap'
 import codequize from '../images/codequize.png'
