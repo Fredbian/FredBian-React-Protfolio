@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FredBian-React-Protfolio/static/css/main.0319676e.css",
-    "main.js": "/FredBian-React-Protfolio/static/js/main.de670bba.js",
+    "main.css": "/FredBian-React-Protfolio/static/css/main.4371d048.css",
+    "main.js": "/FredBian-React-Protfolio/static/js/main.e35917a7.js",
     "static/js/787.c9855f27.chunk.js": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js",
     "static/media/protfolio1.png": "/FredBian-React-Protfolio/static/media/protfolio1.9ca3f4280c5f5fde236b.png",
     "static/media/resume.pdf": "/FredBian-React-Protfolio/static/media/resume.70f31d50a8129451075d.pdf",
@@ -12,12 +12,12 @@
     "static/media/work_day_scheduler.png": "/FredBian-React-Protfolio/static/media/work_day_scheduler.6452ebe62800ebf03084.png",
     "static/media/tech_blog.png": "/FredBian-React-Protfolio/static/media/tech_blog.e0667a6ff3cd7aa1977b.png",
     "index.html": "/FredBian-React-Protfolio/index.html",
-    "main.0319676e.css.map": "/FredBian-React-Protfolio/static/css/main.0319676e.css.map",
-    "main.de670bba.js.map": "/FredBian-React-Protfolio/static/js/main.de670bba.js.map",
+    "main.4371d048.css.map": "/FredBian-React-Protfolio/static/css/main.4371d048.css.map",
+    "main.e35917a7.js.map": "/FredBian-React-Protfolio/static/js/main.e35917a7.js.map",
     "787.c9855f27.chunk.js.map": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0319676e.css",
-    "static/js/main.de670bba.js"
+    "static/css/main.4371d048.css",
+    "static/js/main.e35917a7.js"
   ]
 }
