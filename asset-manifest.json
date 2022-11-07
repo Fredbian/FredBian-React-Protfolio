@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FredBian-React-Protfolio/static/css/main.4371d048.css",
-    "main.js": "/FredBian-React-Protfolio/static/js/main.0568e92e.js",
+    "main.js": "/FredBian-React-Protfolio/static/js/main.b946b11c.js",
     "static/js/787.c9855f27.chunk.js": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js",
     "static/media/paws_for_homes.png": "/FredBian-React-Protfolio/static/media/paws_for_homes.84248de71f63691c84ac.png",
     "static/media/easy_rent.png": "/FredBian-React-Protfolio/static/media/easy_rent.1d0cc2a19941368966d1.png",
@@ -14,11 +14,11 @@
     "static/media/tech_blog.png": "/FredBian-React-Protfolio/static/media/tech_blog.e0667a6ff3cd7aa1977b.png",
     "index.html": "/FredBian-React-Protfolio/index.html",
     "main.4371d048.css.map": "/FredBian-React-Protfolio/static/css/main.4371d048.css.map",
-    "main.0568e92e.js.map": "/FredBian-React-Protfolio/static/js/main.0568e92e.js.map",
+    "main.b946b11c.js.map": "/FredBian-React-Protfolio/static/js/main.b946b11c.js.map",
     "787.c9855f27.chunk.js.map": "/FredBian-React-Protfolio/static/js/787.c9855f27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4371d048.css",
-    "static/js/main.0568e92e.js"
+    "static/js/main.b946b11c.js"
   ]
 }
