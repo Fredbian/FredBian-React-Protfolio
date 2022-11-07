@@ -20,10 +20,10 @@ function Resume() {
                     <li>React</li>
                     <li>MongoDB</li>
                     <li>MySQL</li>
-                    <li>Handlebars</li>
-                    <li>Sequelize</li>
-                    <li>Insomnia</li>
-                    <li>Heroku</li>
+                    <li>NoSQL</li>
+                    <li>GraphQL</li>
+                    <li>Chakra UI</li>
+                    <li>jQuery</li>
                     <li>Frontend Development</li>
                     <li>Server Side API & Third Party API</li>
                     <li>Backend Development</li>
