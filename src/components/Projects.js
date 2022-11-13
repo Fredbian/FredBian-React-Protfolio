@@ -14,7 +14,7 @@ function Projects(props) {
           {props.description}
         </Card.Text>
         <Button variant="success" href={props.linkApp} target="_blank" style={{ marginBottom: 5, marginRight: 5 }}>
-          {"View Live"}
+          {"Deployed App"}
         </Button>
         <Button variant="secondary" href={props.linkGithub} target="_blank" style={{ marginBottom: 5, marginRight: 5 }}>
           {"Github Repo"}
