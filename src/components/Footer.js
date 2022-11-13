@@ -11,7 +11,7 @@ const imgStyle = {
 }
 
 const footerStyle = {
-    padding: '10px',
+    // paddingTop: '10px',
     fontWeight: 'bold'
 }
 
@@ -19,6 +19,8 @@ function Footer() {
     return(
         <div className="footer" id="footer">
             <p style={footerStyle}>Developed by Fred Bian</p>
+            <p style={footerStyle}>Email: biantao0519@hotmail.com</p>
+            <p style={footerStyle}>Tel: +61 452200519</p>
             <p style={footerStyle}>© 2022 Fred Bian</p>
             <a href="https://www.linkedin.com/in/tao-bian-9aa137239/"><img src={LinkedIn} alt="LinkedIn" style={imgStyle}></img></a>
             <a href="https://github.com/Fredbian?tab=repositories"><img src={Github} alt="Github" style={imgStyle}></img></a>
