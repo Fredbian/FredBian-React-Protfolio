@@ -3,7 +3,6 @@ import "../style/Portfolio.css"
 import Projects from './Projects'
 import { Container, Row, Col } from 'react-bootstrap'
 import cocktail_recipe_finder from '../images/cocktail_recipe_finder.png'
-import password_generator from '../images/password_generator.png'
 import paws_for_homes from '../images/paws_for_homes.png'
 import easy_rent from '../images/easy_rent.png'
 import tech_blog from '../images/tech_blog.png'
