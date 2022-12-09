@@ -42,7 +42,7 @@ function Protfolio() {
                                 imgPath={weather_dashboard}
                                 title="Weather Dashboard"
                                 description="Weather app that provides current and future weather forecasts in cities. Tec: HTML, CSS, JavaScript, Openweather API"
-                                linkApp="https://fredbian.github.io/MONU-FSF-Module-6-Challenge-Weather-Dashboard/"
+                                linkApp="https://fredbian.github.io/Weather-Dashboard/"
                                 linkGithub="https://github.com/Fredbian/MONU-FSF-Module-6-Challenge-Weather-Dashboard"
                             />
                         </Col>
@@ -69,7 +69,7 @@ function Protfolio() {
                                 imgPath={work_day_scheduler}
                                 title="Work Day Scheduler"
                                 description="It's a simple Work Day Scheduler Calendar application build with HTML, CSS and JS."                            
-                                linkApp="https://fredbian.github.io/MONU-FSF-Module5_Challenge-Work-Day-Scheduler/"
+                                linkApp="https://fredbian.github.io/Work-Day-Scheduler/"
                                 linkGithub="https://github.com/Fredbian/MONU-FSF-Module5_Challenge-Work-Day-Scheduler"
                             />
                         </Col>
