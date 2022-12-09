@@ -51,7 +51,7 @@ function Protfolio() {
                                 imgPath={paws_for_homes}
                                 title="Paws For Homes"
                                 description="Interactive Node-based Full-Stack application following the MVC. Tec: Express, Node, Bootstrap, JavaScript, MySQL, ORM, Bcrypt"
-                                linkApp="https://paws-for-homes.herokuapp.com/"
+                                linkApp="https://paws-for-home.herokuapp.com/"
                                 linkGithub="https://github.com/Zoki91/Paws-For-Homes"
                             />
                         </Col>
